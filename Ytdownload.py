@@ -1,6 +1,6 @@
 import yt_dlp as youtube_dl #imports the main library used 
 import tkinter as tk #i forgot ask bob
-from tkinter import filedialog #was gonna include a mp3 but im too lazy ill do it later (that means 10yrs from now if your lucky)
+from tkinter import filedialog #was gonna include a mp3 but im too lazy ill do it later (that means 10yrs from now) ( if your lucky have a good day tho)
 
 def download(url, save_path): #defines the download function
     try:
